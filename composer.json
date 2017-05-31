@@ -17,6 +17,10 @@
         {
             "name": "Newsletter2Go GmbH",
             "email": "support@newsletter2go.com"
+        },
+        {
+            "name": "Moritz Mackiewicz",
+            "remove_this_and_all_numbers23m23m23a@scherer-software.de"
         }
     ],
     "minimum-stability": "stable"
